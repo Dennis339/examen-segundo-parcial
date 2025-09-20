@@ -3,8 +3,13 @@
 * Copyright 2013-2023 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-casual/blob/master/LICENSE)
 */
+
 // Highlights current date on contact page
 window.addEventListener('DOMContentLoaded', event => {
-    const listHoursArray = document.body.querySelectorAll('.list-hours li');
-    listHoursArray[new Date().getDay()].classList.add(('today'));
-})
+  const listHoursArray = document.body.querySelectorAll('.list-hours li');
+  const todayIndex = new Date().getDay();
+  if (listHoursArray[todayIndex]) {
+    listHoursArray[todayIndex].classList.add('today');
+  }
+});
+
