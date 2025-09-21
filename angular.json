@@ -29,7 +29,8 @@
               "src/assets/template/css/styles.css"
             ],
             "scripts": [
-              "src/assets/template/js/scripts.js"
+              "src/assets/template/js/scripts.js",
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
             ],
             "server": "src/main.server.ts",
             "outputMode": "server",
