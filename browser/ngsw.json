@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1758507440305,
+  "index": "/examen-segundo-parcial/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/examen-segundo-parcial/index.html",
+        "/examen-segundo-parcial/main-BYIC62UQ.js",
+        "/examen-segundo-parcial/manifest.webmanifest",
+        "/examen-segundo-parcial/scripts-MDF6VXBQ.js",
+        "/examen-segundo-parcial/styles-4HYB2CNX.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/examen-segundo-parcial/assets/icons/icon-128x128.png",
+        "/examen-segundo-parcial/assets/icons/icon-144x144.png",
+        "/examen-segundo-parcial/assets/icons/icon-152x152.png",
+        "/examen-segundo-parcial/assets/icons/icon-192x192.png",
+        "/examen-segundo-parcial/assets/icons/icon-384x384.png",
+        "/examen-segundo-parcial/assets/icons/icon-512x512.png",
+        "/examen-segundo-parcial/assets/icons/icon-72x72.png",
+        "/examen-segundo-parcial/assets/icons/icon-96x96.png",
+        "/examen-segundo-parcial/assets/template/img/about.jpg",
+        "/examen-segundo-parcial/assets/template/img/bg.jpg",
+        "/examen-segundo-parcial/assets/template/img/intro.jpg",
+        "/examen-segundo-parcial/assets/template/img/products-01.jpg",
+        "/examen-segundo-parcial/assets/template/img/products-02.jpg",
+        "/examen-segundo-parcial/assets/template/img/products-03.jpg",
+        "/examen-segundo-parcial/media/bg-KQ6DT5HV.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/examen-segundo-parcial/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/examen-segundo-parcial/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/examen-segundo-parcial/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/examen-segundo-parcial/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/examen-segundo-parcial/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/examen-segundo-parcial/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/examen-segundo-parcial/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/examen-segundo-parcial/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/examen-segundo-parcial/assets/template/img/about.jpg": "c67abfa275a3e8629ac1673b06e2c50836adc82f",
+    "/examen-segundo-parcial/assets/template/img/bg.jpg": "e08aff28fa6a5c91535f4da6513cb0de998d5762",
+    "/examen-segundo-parcial/assets/template/img/intro.jpg": "69f13fdf1260bd3745e18196d906c5b0380ac614",
+    "/examen-segundo-parcial/assets/template/img/products-01.jpg": "18e1a44f70ee0623275023e5369865cd1e36bc9b",
+    "/examen-segundo-parcial/assets/template/img/products-02.jpg": "45f204d54e400b28bd228841a0af5531ef8abc7e",
+    "/examen-segundo-parcial/assets/template/img/products-03.jpg": "a690ce353760995a51ff60f6ceca73ac6d237057",
+    "/examen-segundo-parcial/index.html": "7640430e4984a45edd40b3b0389b2aa7c7039fc8",
+    "/examen-segundo-parcial/main-BYIC62UQ.js": "fe5229d53dd47ccb1abc71f3190270d68531c9c2",
+    "/examen-segundo-parcial/manifest.webmanifest": "9b47a7857e8abc0906326eecdd51e6a648912738",
+    "/examen-segundo-parcial/media/bg-KQ6DT5HV.jpg": "e08aff28fa6a5c91535f4da6513cb0de998d5762",
+    "/examen-segundo-parcial/scripts-MDF6VXBQ.js": "7d24ccb44214181bc58e8fa9be2470cfd4e352db",
+    "/examen-segundo-parcial/styles-4HYB2CNX.css": "c1cd6d21c5bd2dd36f9b6ba01feb9b73ee5c9483"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
