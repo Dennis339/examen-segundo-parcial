@@ -2,8 +2,8 @@
   "name": "angular-app",
   "short_name": "angular-app",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "scope": "/examen-segundo-parcial/",
+  "start_url": "/examen-segundo-parcial/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
