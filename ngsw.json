@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758757697203,
+  "timestamp": 1758758287069,
   "index": "/examen-segundo-parcial/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/examen-segundo-parcial/favicon.ico",
         "/examen-segundo-parcial/index.html",
-        "/examen-segundo-parcial/main-KYDM6QVS.js",
+        "/examen-segundo-parcial/main-BY4ZXKQ6.js",
         "/examen-segundo-parcial/manifest.webmanifest",
         "/examen-segundo-parcial/scripts-MDF6VXBQ.js",
         "/examen-segundo-parcial/styles-4HYB2CNX.css"
@@ -64,8 +64,8 @@
     "/examen-segundo-parcial/assets/template/img/products-02.jpg": "45f204d54e400b28bd228841a0af5531ef8abc7e",
     "/examen-segundo-parcial/assets/template/img/products-03.jpg": "a690ce353760995a51ff60f6ceca73ac6d237057",
     "/examen-segundo-parcial/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/examen-segundo-parcial/index.html": "6e0838e5938b348bc55a1814b21bdd430771b923",
-    "/examen-segundo-parcial/main-KYDM6QVS.js": "25db745703112f4264803e67ab2483ee0115510f",
+    "/examen-segundo-parcial/index.html": "794fa693311478aaba60dd30f92ceee1aa162182",
+    "/examen-segundo-parcial/main-BY4ZXKQ6.js": "fb7521ebd60c1c6cbc2ed7e4b722a443b2150f0e",
     "/examen-segundo-parcial/manifest.webmanifest": "97133fcd173cd4fd13e7bde46b3cddbe7b23445d",
     "/examen-segundo-parcial/media/bg-KQ6DT5HV.jpg": "e08aff28fa6a5c91535f4da6513cb0de998d5762",
     "/examen-segundo-parcial/scripts-MDF6VXBQ.js": "7d24ccb44214181bc58e8fa9be2470cfd4e352db",
